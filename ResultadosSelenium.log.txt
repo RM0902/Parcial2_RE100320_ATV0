@@ -1,0 +1,36 @@
+    Running '1_LOGIN'
+    21:51:35
+    1.open on /PHP-MYSQL-User-Login-System/login.php OK
+    21:51:36
+    2.setWindowSize on 1318x493 OK
+    21:51:36
+    3.click on name=email OK
+    21:51:36
+    4.executeScript on document.getElementsByName('email')[0].value = 'rodrigomanuel99@gmail.com' with value rodrigomanuel99@gmail.com OK
+    21:51:36
+    5.click on name=password OK
+    21:51:36
+    6.executeScript on document.getElementsByName('password')[0].value = '1234' with value 1234 OK
+    21:51:37
+    7.click on id=submit OK
+    21:51:37
+    '1_LOGIN' completed successfully
+    21:51:37
+    Running '1_LOGIN'
+    22:09:18
+    1.open on /PHP-MYSQL-User-Login-System/login.php OK
+    22:09:18
+    2.setWindowSize on 1318x493 OK
+    22:09:18
+    3.click on name=email OK
+    22:09:18
+    4.executeScript on document.getElementsByName('email')[0].value = 'rodrigomanuel99@gmail.com' with value rodrigomanuel99@gmail.com OK
+    22:09:19
+    5.click on name=password OK
+    22:09:19
+    6.executeScript on document.getElementsByName('password')[0].value = '1234' with value 1234 OK
+    22:09:19
+    7.click on id=submit OK
+    22:09:19
+    '1_LOGIN' completed successfully
+    22:09:19
